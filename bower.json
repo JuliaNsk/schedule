@@ -1,0 +1,45 @@
+{
+  "name": "scheduleWebApp",
+  "version": "0.0.0",
+  "dependencies": {
+    "angular": "~1.4.0",
+    "angular-bootstrap": "~1.1.2",
+    "angular-breadcrumb": "~0.4.0",
+    "angular-daterangepicker": "~0.1.17",
+    "angular-file-upload": "latest",
+    "angular-local-storage": "~0.2.2",
+    "angular-sanitize": "~1.4.0",
+    "angular-spinner": "~0.6.2",
+    "angular-touch": "~1.4.7",
+    "angular-ui-grid": "~3.0.6",
+    "angular-ui-router": "~0.2.15",
+    "animate.css": "~3.3.0",
+    "bootstrap": "~3.3.5",
+    "jquery": "~2.1.4",
+    "jquery.inputmask": "~3.1.63",
+    "lodash": "~3.10.0",
+    "moment": "latest",
+    "moment-duration-format": "latest",
+    "moment-range": "~2.0.3",
+    "toastr": "~2.1.1",
+    "angular-material-icons": "~0.6.0",
+    "ui-router-extras": "~0.1.0",
+    "angular-animate": "^1.4.9",
+    "qrcode.js": "qrcode#~1.0.2",
+    "angular-qr": "~0.2.0",
+    "jwt-decode": "~1.4.0",
+    "angular-scrollable-table": "*",
+    "ui-grid-draggable-rows": "^0.2.2",
+    "ng-img-crop-full-extended": "ngImgCropFullExtended#~0.5.0",
+    "angular-clipboard": "*",
+    "angular-sails": "^1.1.4",
+    "isteven-angular-multiselect": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "~1.4.0"
+  },
+  "resolutions": {
+    "jquery": "~2.1.4",
+    "angular": "~1.4.0"
+  }
+}
